@@ -1,0 +1,5 @@
+# secrets
+*.pem
+*.key
+backend/private_key
+.env

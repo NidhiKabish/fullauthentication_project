@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Private keys
+backend/private_key
+backend/private_key.pub
+
+# Logs
+*.log
+logs/
+# secrets
+*.pem
+*.key
+backend/private_key
+.env
